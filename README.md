@@ -4,7 +4,7 @@ Automated accessibility checkers can be used to help identify accessibility issu
 
 This repo contains a collection of accessibility failures to be used for testing automated accessibility tools and test results from those tools.
 
-[Read our blog post](https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/) about how we did the automated tool testing.
+[Read the original UK Gov blog post](https://accessibility.blog.gov.uk/2017/02/24/what-we-found-when-we-tested-tools-on-the-worlds-least-accessible-webpage/) about how they did the automated tool testing.
 
 ## About the test cases
 
